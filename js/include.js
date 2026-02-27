@@ -19,3 +19,4 @@ document.addEventListener("DOMContentLoaded", () => {
   loadComponent("site-header", "components/header.html", "js/header.js");
   loadComponent("site-footer", "components/footer.html", "js/footer.js");
 });
+
